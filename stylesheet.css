@@ -1,0 +1,19 @@
+body {
+    background-color: #D6EFED;
+    font-family: 'Bree Serif', serif;
+}
+
+img {
+    display: inline;
+}
+
+h1 {
+    display: inline;
+    margin: auto;
+    position: absolute;
+    top: 60px;
+}
+
+h2 {
+    margin-top: 0;
+}
